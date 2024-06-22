@@ -6,6 +6,6 @@ class zenith ( ReadMe ) :
         self.location  = "Indonesia"
     def about ( self ) :
         print( f"{self.name} Fullstack Developer." )
-me = lazy()
+me = zenith()
 me.about()
 ```
